@@ -1,0 +1,9 @@
+Integrante:
+Que hiciste ayer:
+Que haras hoy:
+Que impedimentos tuviste:
+
+Integrante: 			Harold Stiven Gaviria Henao
+Que hiciste ayer:		Realice descripción y modificaciones en el repositorio
+Que haras hoy:			Estudiar html y aplicar conocimientos vistos en clase
+Que impedimentos tuviste:	Ninguno
