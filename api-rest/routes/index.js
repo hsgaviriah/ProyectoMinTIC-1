@@ -13,7 +13,7 @@ app.use(cors(/*{ origin: true, credentials: true }*/)); // habilita auth
 
 api.get('/product', registroCtrl.getRegistros)
 api.get('/product/:productId', registroCtrl.getRegistro)
-api.post('/product', registroCtrl.saveRegistro)
+api.post('/product/agregar', registroCtrl.saveRegistro)
 api.put('/product/:productId', registroCtrl.updateRegistro)
 api.delete('/product/:productId', registroCtrl.deleteRegistro)
 

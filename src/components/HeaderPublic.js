@@ -24,7 +24,7 @@ const HeaderPublic = () => {
                             <button className="botonHeaderPublic">¡Iniciar ahora!</button>
                         </Link>
                     </li>
-                    <li><LogoutButton/></li>
+              
                 </ul>
             </nav>
             
